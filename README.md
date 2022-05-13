@@ -18,6 +18,5 @@
 ><img height="50" style="margin-right: 20px" src="./img/javascript.svg" alt="JavaScript">
 ><img height="50" style="margin-right: 20px" src="./img/mysql.svg" alt="MySQL">
 ><img height="50" style="margin-right: 20px" src="./img/react.svg" alt="React">
-><img height="50" style="margin-right: 20px" src="./img/typescript.svg" alt="TypeScript">
 ><img height="50" style="margin-right: 20px" src="./img/angular.svg" alt="Angular">
 ><img height="50" style="margin-right: 20px" src="./img/python.svg" alt="Python">
