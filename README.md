@@ -7,10 +7,10 @@
 
 >### I like to ride a bike🚴, hiking⛰️, wildcook👨‍🍳 and shoot it all on my camera
 >>#### 📷 Here is my personal social media for hobbies:
->><img height="20" align="center" src="./img/instagram.svg" alt="Where is Sirko">[Where is Sirko](https://www.instagram.com/where.is.sirko/) <br>
->><img height="20" align="center" src="./img/youtube.svg" alt="Where is Sirko">[Where is Sirko](https://www.youtube.com/channel/UCrvWs2gInquelnHiz-Xptow) <br>
->><img height="20" align="center" src="./img/twitter.svg" alt="Where is Sirko">[Where is Sirko](https://twitter.com/Where_is_Sirko) <br>
->><img height="20" align="center" src="./img/strava.svg" alt="Where is Sirko">[Where is Sirko](https://www.strava.com/athletes/42871701) <br>
+>>[<img height="20" style="margin-right: 15px" align="center" src="./img/instagram.svg" alt="Where is Sirko">](https://www.instagram.com/where.is.sirko/) 
+>>[<img height="20" style="margin-right: 15px" align="center" src="./img/youtube.svg" alt="Where is Sirko">](https://www.youtube.com/channel/UCrvWs2gInquelnHiz-Xptow)
+>>[<img height="20" style="margin-right: 15px" align="center" src="./img/twitter.svg" alt="Where is Sirko">](https://twitter.com/Where_is_Sirko)
+>>[<img height="20" style="margin-right: 15px" align="center" src="./img/strava.svg" alt="Where is Sirko">](https://www.strava.com/athletes/42871701)
 
 >### Languages and Tools:
 ><img height="60" style="margin-right: 20px" src="./img/html5.svg" alt="HTML5"> 
