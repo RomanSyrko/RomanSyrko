@@ -12,3 +12,11 @@
 >><img height="20" align="center" src="./img/twitter.svg" alt="Where is Sirko">[Where is Sirko](https://twitter.com/Where_is_Sirko) <br>
 >><img height="20" align="center" src="./img/strava.svg" alt="Where is Sirko">[Where is Sirko](https://www.strava.com/athletes/42871701) <br>
 
+### Languages and Tools:
+<img height="40" src="./img/html5.svg" alt="HTML5">
+<img height="40" src="./img/scc3.svg" alt="CSS3">
+<img height="40" src="./img/javascript.svg" alt="JavaScript">
+<img height="40" src="./img/mysql.svg" alt="MySQL">
+<img height="40" src="./img/react.svg" alt="React">
+<img height="40" src="./img/angular.svg" alt="Angular">
+<img height="40" src="./img/python.svg" alt="Python">
