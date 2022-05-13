@@ -5,7 +5,7 @@
 >#### ✍️ Connect with me:
 ><img height="20" align="center" src="./img/linkedin.svg" alt="Where is Sirko">[Roman Syrko](https://www.linkedin.com/in/syrkoroman/) <br>
 
->### I like to ride a bike, hiking, wildcook and shoot it all on my camera
+>### I like to ride a bike🚴, hiking⛰️, wildcook👨‍🍳 and shoot it all on my camera
 >>#### 📷 Here is my personal social media for hobbies:
 >><img height="20" align="center" src="./img/instagram.svg" alt="Where is Sirko">[Where is Sirko](https://www.instagram.com/where.is.sirko/) <br>
 >><img height="20" align="center" src="./img/youtube.svg" alt="Where is Sirko">[Where is Sirko](https://www.youtube.com/channel/UCrvWs2gInquelnHiz-Xptow) <br>
