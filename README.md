@@ -12,7 +12,7 @@
 ><img height="60" style="margin-right: 20px" src="./img/python.svg" alt="Python">
 
 >#### ✍️ Connect with me:
->[<img height="25" align="center" src="./img/linkedin.svg" alt="De Sirko">](https://www.linkedin.com/in/syrkoroman/) <br>
+>[<img height="25" align="center" src="./img/linkedin.svg" alt="De Sirko">](https://www.linkedin.com/in/romansyrko/) <br>
 
 >### A little about me:
 >#### I like to ride a bike🚴, hiking⛰️, wildcook👨‍🍳 and shoot it all on my camera
