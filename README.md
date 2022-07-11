@@ -12,12 +12,11 @@
 ><img height="60" style="margin-right: 20px" src="./img/python.svg" alt="Python">
 
 >#### ✍️ Connect with me:
->[<img height="25" align="center" src="./img/linkedin.svg" alt="Where is Sirko">](https://www.linkedin.com/in/syrkoroman/) <br>
+>[<img height="25" align="center" src="./img/linkedin.svg" alt="De Sirko">](https://www.linkedin.com/in/syrkoroman/) <br>
 
 >### A little about me:
 >#### I like to ride a bike🚴, hiking⛰️, wildcook👨‍🍳 and shoot it all on my camera
 >>#### 📷 Here is my personal social media for hobbies:
->>[<img height="25" style="margin-right: 15px" align="center" src="./img/instagram.svg" alt="Where is Sirko">](https://www.instagram.com/where.is.sirko/)
->>[<img height="25" style="margin-right: 15px" align="center" src="./img/youtube.svg" alt="Where is Sirko">](https://www.youtube.com/channel/UCrvWs2gInquelnHiz-Xptow)
->>[<img height="25" style="margin-right: 15px" align="center" src="./img/twitter.svg" alt="Where is Sirko">](https://twitter.com/Where_is_Sirko)
->>[<img height="25" style="margin-right: 15px" align="center" src="./img/strava.svg" alt="Where is Sirko">](https://www.strava.com/athletes/42871701)
+>>[<img height="25" style="margin-right: 15px" align="center" src="./img/instagram.svg" alt="De Sirko">](https://www.instagram.com/de.sirko/)
+>>[<img height="25" style="margin-right: 15px" align="center" src="./img/youtube.svg" alt="De Sirko">](https://www.youtube.com/channel/UCrvWs2gInquelnHiz-Xptow)
+>>[<img height="25" style="margin-right: 15px" align="center" src="./img/strava.svg" alt="De Sirko">](https://www.strava.com/athletes/de_sirko)
