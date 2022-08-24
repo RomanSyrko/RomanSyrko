@@ -18,5 +18,5 @@
 >#### I like to ride a bike🚴, hiking⛰️, wildcook👨‍🍳 and shoot it all on my camera
 >>#### 📷 Here is my personal social media for hobbies:
 >>[<img height="25" style="margin-right: 15px" align="center" src="./img/instagram.svg" alt="De Sirko">](https://www.instagram.com/de.sirko/)
->>[<img height="25" style="margin-right: 15px" align="center" src="./img/youtube.svg" alt="De Sirko">](https://www.youtube.com/c/ДеСірко)
+>>[<img height="25" style="margin-right: 15px" align="center" src="./img/youtube.svg" alt="De Sirko">](https://www.youtube.com/channel/UCrvWs2gInquelnHiz-Xptow)
 >>[<img height="25" style="margin-right: 15px" align="center" src="./img/strava.svg" alt="De Sirko">](https://www.strava.com/athletes/de_sirko)
