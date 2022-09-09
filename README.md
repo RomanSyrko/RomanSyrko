@@ -19,4 +19,5 @@
 >>#### 📷 Here is my personal social media for hobbies:
 >>[<img height="25" style="margin-right: 15px" align="center" src="./img/instagram.svg" alt="De Sirko">](https://www.instagram.com/de.sirko/)
 >>[<img height="25" style="margin-right: 15px" align="center" src="./img/youtube.svg" alt="De Sirko">](https://www.youtube.com/channel/UCrvWs2gInquelnHiz-Xptow)
->>[<img height="25" style="margin-right: 15px" align="center" src="./img/strava.svg" alt="De Sirko">](https://www.strava.com/athletes/de_sirko)
+
+[//]: # (>>[<img height="25" style="margin-right: 15px" align="center" src="./img/strava.svg" alt="De Sirko">]&#40;https://www.strava.com/athletes/de_sirko&#41;)
