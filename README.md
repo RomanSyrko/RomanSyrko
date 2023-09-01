@@ -6,12 +6,13 @@
 <h3 align="center">A am Junior IOS developer from Lviv, Ukraine</h3>
 <img align="right" width="300" src="./img/New Products Every Day.gif" alt="New Product.gif">
 
-
+<p>
 - 🔭 I’m currently working on **My own mini-project for IOS devices**
 
 - 🌱 I’m currently learning **Swift, SwiftUI**
 
 - 🤝 I’m looking for **My first offer**
+</p>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
