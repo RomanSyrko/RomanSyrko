@@ -1,9 +1,10 @@
-<p align="center">
+<!--<p align="center">
 <img width="800" src="./img/Video Call.gif" alt="Video Call.gif">
-</p>
+</p>-->
 
 <h1 align="center">Hi 👋, I'm Roman</h1>
 <h3 align="center">A am Junior IOS developer from Lviv, Ukraine</h3>
+<img align="right" width="200" src="./img/Video Call.gif" alt="Video Call.gif">
 
 - 🌱 I’m currently learning **Swift**
 
