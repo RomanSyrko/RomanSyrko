@@ -1,12 +1,13 @@
-<!--<p align="center">
-<img width="800" src="./img/Video Call.gif" alt="Video Call.gif">
-</p>-->
-
 <h1 align="center">Hi 👋, I'm Roman</h1>
 <h3 align="center">A am Junior IOS developer from Lviv, Ukraine</h3>
-<img align="right" width="200" src="./img/New Products Every Day.gif" alt="New Product.gif">
+<img align="right" width="300" src="./img/New Products Every Day.gif" alt="New Product.gif">
 
-- 🌱 I’m currently learning **Swift**
+
+- 🔭 I’m currently working on **My own mini-project for IOS devices**
+
+- 🌱 I’m currently learning **Swift, SwiftUI**
+
+- 🤝 I’m looking for **My first offer**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
