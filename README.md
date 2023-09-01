@@ -4,11 +4,11 @@
 
 <h1 align="center">Hi 👋, I'm Roman</h1>
 <h3 align="center">A am Junior IOS developer from Lviv, Ukraine</h3>
-<div>
+<div align="center">
 
 <img align="right" width="300" src="./img/New Products Every Day.gif" alt="New Product.gif">
 
-<div align="center">
+<div>
   
 - 🔭 I’m currently working on **My own mini-project for IOS devices**
 
