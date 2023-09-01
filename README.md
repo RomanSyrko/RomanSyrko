@@ -4,17 +4,17 @@
 
 <h1 align="center">Hi 👋, I'm Roman</h1>
 <h3 align="center">A am Junior IOS developer from Lviv, Ukraine</h3>
-<p>
+<span>
 <img align="right" width="300" src="./img/New Products Every Day.gif" alt="New Product.gif">
-</p>
+</span>
 
-<p>
+<span>
 - 🔭 I’m currently working on **My own mini-project for IOS devices**
 
 - 🌱 I’m currently learning **Swift, SwiftUI**
 
 - 🤝 I’m looking for **My first offer**
-</p>
+</span>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
