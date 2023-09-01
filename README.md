@@ -1,3 +1,7 @@
+<p align="center">
+  <img src="./img/HelloWorld.png" alt="HelloWorld.png">
+</p>
+
 <h1 align="center">Hi 👋, I'm Roman</h1>
 <h3 align="center">A am Junior IOS developer from Lviv, Ukraine</h3>
 <img align="right" width="300" src="./img/New Products Every Day.gif" alt="New Product.gif">
