@@ -1,4 +1,6 @@
-<img align="center" width="800" src="./img/Video Call.gif" alt="Video Call.gif">
+<p align="center">
+<img width="800" src="./img/Video Call.gif" alt="Video Call.gif">
+</p>
 
 <h1 align="center">Hi 👋, I'm Roman</h1>
 <h3 align="center">A am Junior IOS developer from Lviv, Ukraine</h3>
@@ -15,4 +17,4 @@
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=romansyrko&show_icons=true&theme=dark&title_color=ffffff&text_color=ffffff&bg_color=000000&locale=en&layout=compact" alt="romansyrko" /></p>
 
-<p><img align="center" src="https://github-readme-stats.vercel.app/api?username=romansyrko&show_icons=true&theme=dark&title_color=ffffff&text_color=ffffff&bg_color=000000&locale=en" alt="romansyrko" /></p>
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=romansyrko&show_icons=true&theme=dark&title_color=ffffff&text_color=ffffff&bg_color=000000&locale=en" alt="romansyrko" /></p>
