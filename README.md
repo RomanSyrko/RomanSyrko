@@ -3,7 +3,7 @@
 </p>
 
 <h1 align="center">Hi 👋, I'm Roman</h1>
-<h3 align="center">A am Junior developer from Lviv, Ukraine</h3>
+<h3 align="center">A am Junior Python Developer from Lviv, Ukraine</h3>
 
 <img align="right" width="300" src="./img/New Products Every Day.gif" alt="New Product.gif">
   
