@@ -18,6 +18,9 @@
 <a href="https://www.linkedin.com/in/romansyrko/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/romansyrko/" height="30" width="40" /></a>
 </p>
 
+<h3 align="left">Codewars:</h3>
+<a href="https://www.codewars.com/users/DeSirko/badges/large" target="blank">
+
 <h3 align="left">Languages and Tools:</h3>
 <p align="left">
 
