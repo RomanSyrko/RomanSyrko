@@ -19,7 +19,7 @@
 </p>
 
 <h3 align="left">Codewars:</h3>
-![image](https://www.codewars.com/users/DeSirko/badges/large)
+[![Profile badge]([https://www.codewars.com/users/marcelus33/badges/large])](https://www.codewars.com/users/DeSirko)
 
 <h3 align="left">Languages and Tools:</h3>
 <p align="left">
