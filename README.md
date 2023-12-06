@@ -19,7 +19,7 @@
 </p>
 
 <h3 align="left">Codewars:</h3>
-<a href="https://www.codewars.com/users/DeSirko/badges/large" target="blank">
+![Codewars](https://github.r2v.ch/codewars?user=USERNAME&stroke=COLOR)
 
 <h3 align="left">Languages and Tools:</h3>
 <p align="left">
