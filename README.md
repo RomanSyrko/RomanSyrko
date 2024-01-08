@@ -20,8 +20,7 @@
 
 <h3 align="left">Codewars:</h3>
 
-[![Profile badge](https://www.codewars.com/users/DeSirko/badges/large)](https://www.codewars.com/users/DeSirko)
-
+[![Profile badge](https://www.codewars.com/users/Roman%20Syrko/badges/large)](https://www.codewars.com/users/DeSirko)
 
 <h3 align="left">Languages and Tools:</h3>
 <p align="left">
