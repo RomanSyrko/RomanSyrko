@@ -13,6 +13,8 @@
 
 - 🤝 I’m looking for **My first offer** -->
 
+<div class="badge-base LI-profile-badge" data-locale="en_US" data-size="medium" data-theme="dark" data-type="VERTICAL" data-vanity="romansyrko" data-version="v1"><a class="badge-base__link LI-simple-link" href="https://ua.linkedin.com/in/romansyrko?trk=profile-badge">Roman Syrko</a></div>
+
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://www.linkedin.com/in/romansyrko/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/romansyrko/" height="30" width="40" /></a>
