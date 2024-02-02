@@ -3,15 +3,11 @@
 </p>
 
 <h1 align="center">Hi 👋, I'm Roman</h1>
-<h3 align="center">A am Junior Python Developer from Lviv, Ukraine</h3>
-
-<img align="right" width="300" src="./img/New Products Every Day.gif" alt="New Product.gif">
+<h3 align="center">I am Junior Python Developer from Lviv, Ukraine 🇺🇦</h3>
   
-<!-- - 🔭 I’m currently working on **My own mini-project for IOS devices**
+- 🌱 I’m currently learning and practicing **Python**
 
-- 🌱 I’m currently learning **Swift, SwiftUI**
-
-- 🤝 I’m looking for **My first offer** -->
+- 🤝 I’m looking for **My first offer**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
@@ -51,6 +47,6 @@
 
 </p>
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=romansyrko&show_icons=true&theme=dark&title_color=ffffff&text_color=ffffff&bg_color=000000&locale=en&layout=compact" alt="romansyrko" /></p>
+<!-- <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=romansyrko&show_icons=true&theme=dark&title_color=ffffff&text_color=ffffff&bg_color=000000&locale=en&layout=compact" alt="romansyrko" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=romansyrko&show_icons=true&theme=dark&title_color=ffffff&text_color=ffffff&bg_color=000000&locale=en" alt="romansyrko" /></p>
+<p><img align="center" src="https://github-readme-stats.vercel.app/api?username=romansyrko&show_icons=true&theme=dark&title_color=ffffff&text_color=ffffff&bg_color=000000&locale=en" alt="romansyrko" /></p> -->
