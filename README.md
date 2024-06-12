@@ -3,11 +3,9 @@
 </p>
 
 <h1 align="center">Hi 👋, I'm Roman</h1>
-<h3 align="center">I am Junior Python Developer from Lviv, Ukraine 🇺🇦</h3>
+<h3 align="center">I am Junior QA Automation Python from Lviv, Ukraine 🇺🇦</h3>
   
-- 🌱 I’m currently learning and practicing **Python**
-
-- 🤝 I’m looking for **My first offer**
+- 🤝 I’m looking for a **Trainee/Junior QA Automation Python** position
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
@@ -20,33 +18,44 @@
 
 <h3 align="left">Languages and Tools:</h3>
 <p align="left">
-
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/>
-
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/>
-
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40"/>
-
-<img src="https://www.svgrepo.com/show/303205/html-5-logo.svg" alt="HTML5" width="40" height="40"/>
-
-<img src="https://www.svgrepo.com/show/452185/css-3.svg" alt="CSS" width="40" height="40"/>
-
-<img src="https://angular.io/assets/images/logos/angular/angular.svg" alt="Angular" width="40" height="40"/>
-
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/>
-
-<img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/>
-
-<img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/>
-
-<img src="https://www.vectorlogo.zone/logos/adobe_illustrator/adobe_illustrator-icon.svg" alt="illustrator" width="40" height="40"/>
-
-<!-- <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="40" height="40"/>
-
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/swift/swift-original.svg" alt="swift" width="40" height="40"/> -->
-
+<ul>
+  <li>
+    - QA Automation:
+    <img src="https://upload.wikimedia.org/wikipedia/commons/b/ba/Pytest_logo.svg" alt="Pytest" width="40" height="40"/>
+    <img src="https://www.svgrepo.com/show/261808/api.svg" alt="API Testing" width="40" height="40"/>
+    <img src="https://www.svgrepo.com/show/221325/http.svg" alt="HTTP library requests" width="40" height="40"/>
+    <img src="https://www.svgrepo.com/show/185757/browser-ui.svg" alt="UI Testing" width="40" height="40"/>
+    <img src="https://www.svgrepo.com/show/354321/selenium.svg" alt="Selenium WebDriver" width="40" height="40"/>
+    <img src="https://www.svgrepo.com/show/373965/pgsql.svg" alt="Pgsql" width="40" height="40"/>
+  </li>
+  
+  <li>
+    - Python Ecosystem:
+    <img src="https://www.svgrepo.com/show/452091/python.svg" alt="python" width="40" height="40"/>
+    <img src="https://icon.icepanel.io/Technology/svg/Matplotlib.svg" alt="Matplotlib" width="40" height="40"/>
+    <img src="https://www.vectorlogo.zone/logos/plotly/plotly-icon.svg" alt="Plotly" width="40" height="40"/>
+    <img src="https://cdn.worldvectorlogo.com/logos/numpy-1.svg" alt="Numpy" width="40" height="40"/>
+    <img src="https://icon.icepanel.io/Technology/svg/Pandas.svg" alt="Pandas" width="40" height="40"/>
+  </li>
+  
+  <li>
+    - Tools:
+    <img src="https://www.svgrepo.com/show/452210/git.svg" alt="Git" width="40" height="40"/>
+    <img src="https://www.svgrepo.com/show/439100/chrome-devtools.svg" alt="Chrome DevTools" width="40" height="40"/>
+    <img src="https://www.svgrepo.com/show/354202/postman-icon.svg" alt="Postman" width="40" height="40"/>
+    <img src="https://www.svgrepo.com/show/448222/figma.svg" alt="Figma" width="40" height="40"/>
+  </li>
+  
+  <li>
+    - Web Development:
+    <img src="https://www.svgrepo.com/show/353925/javascript.svg" alt="javascript" width="40" height="40"/>
+    <img src="https://www.svgrepo.com/show/303205/html-5-logo.svg" alt="HTML5" width="40" height="40"/>
+    <img src="https://www.svgrepo.com/show/452185/css-3.svg" alt="CSS" width="40" height="40"/>
+    <img src="https://www.svgrepo.com/show/374146/typescript-official.svg" alt="typescript" width="40" height="40"/>
+    <img src="https://www.svgrepo.com/show/452156/angular.svg" alt="Angular" width="40" height="40"/>
+    <img src="https://www.svgrepo.com/show/452092/react.svg" alt="React" width="40" height="40"/>
+  </li>
+</ul>
 </p>
 
-<!-- <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=romansyrko&show_icons=true&theme=dark&title_color=ffffff&text_color=ffffff&bg_color=000000&locale=en&layout=compact" alt="romansyrko" /></p>
-
-<p><img align="center" src="https://github-readme-stats.vercel.app/api?username=romansyrko&show_icons=true&theme=dark&title_color=ffffff&text_color=ffffff&bg_color=000000&locale=en" alt="romansyrko" /></p> -->
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=romansyrko&show_icons=true&theme=dark&title_color=ffffff&text_color=ffffff&bg_color=000000&locale=en&layout=compact" alt="romansyrko" /></p>
