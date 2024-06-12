@@ -66,6 +66,6 @@
 </ul>
 </p>
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=romansyrko&show_icons=true&theme=dark&title_color=ffffff&text_color=ffffff&bg_color=000000&locale=en&layout=donut" alt="romansyrko" /></p>
+<!-- <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=romansyrko&show_icons=true&theme=dark&title_color=ffffff&text_color=ffffff&bg_color=000000&locale=en&layout=donut" alt="romansyrko" /></p> -->
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=romansyrko&layout=donut)](https://github.com/romansyrko/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=romansyrko&layout=donut)]
