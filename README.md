@@ -20,40 +20,48 @@
 <p align="left">
 <ul>
   <li>
-    - QA Automation:
-    <img src="https://upload.wikimedia.org/wikipedia/commons/b/ba/Pytest_logo.svg" alt="Pytest" width="40" height="40"/>
-    <img src="https://www.svgrepo.com/show/261808/api.svg" alt="API Testing" width="40" height="40"/>
-    <img src="https://www.svgrepo.com/show/221325/http.svg" alt="HTTP library requests" width="40" height="40"/>
-    <img src="https://www.svgrepo.com/show/185757/browser-ui.svg" alt="UI Testing" width="40" height="40"/>
-    <img src="https://www.svgrepo.com/show/354321/selenium.svg" alt="Selenium WebDriver" width="40" height="40"/>
-    <img src="https://www.svgrepo.com/show/373965/pgsql.svg" alt="Pgsql" width="40" height="40"/>
+    ### QA Automation:
+    <li>
+      <img src="https://upload.wikimedia.org/wikipedia/commons/b/ba/Pytest_logo.svg" alt="Pytest" width="40" height="40"/>
+      <img src="https://www.svgrepo.com/show/261808/api.svg" alt="API Testing" width="40" height="40"/>
+      <img src="https://www.svgrepo.com/show/221325/http.svg" alt="HTTP library requests" width="40" height="40"/>
+      <img src="https://www.svgrepo.com/show/185757/browser-ui.svg" alt="UI Testing" width="40" height="40"/>
+      <img src="https://www.svgrepo.com/show/354321/selenium.svg" alt="Selenium WebDriver" width="40" height="40"/>
+      <img src="https://www.svgrepo.com/show/373965/pgsql.svg" alt="Pgsql" width="40" height="40"/>
+    </li>
   </li>
   
   <li>
-    - Python Ecosystem:
-    <img src="https://www.svgrepo.com/show/452091/python.svg" alt="python" width="40" height="40"/>
-    <img src="https://icon.icepanel.io/Technology/svg/Matplotlib.svg" alt="Matplotlib" width="40" height="40"/>
-    <img src="https://www.vectorlogo.zone/logos/plotly/plotly-icon.svg" alt="Plotly" width="40" height="40"/>
-    <img src="https://cdn.worldvectorlogo.com/logos/numpy-1.svg" alt="Numpy" width="40" height="40"/>
-    <img src="https://icon.icepanel.io/Technology/svg/Pandas.svg" alt="Pandas" width="40" height="40"/>
+    ### Python Ecosystem:
+    <li>
+      <img src="https://www.svgrepo.com/show/452091/python.svg" alt="python" width="40" height="40"/>
+      <img src="https://icon.icepanel.io/Technology/svg/Matplotlib.svg" alt="Matplotlib" width="40" height="40"/>
+      <img src="https://www.vectorlogo.zone/logos/plotly/plotly-icon.svg" alt="Plotly" width="40" height="40"/>
+      <img src="https://cdn.worldvectorlogo.com/logos/numpy-1.svg" alt="Numpy" width="40" height="40"/>
+      <img src="https://icon.icepanel.io/Technology/svg/Pandas.svg" alt="Pandas" width="40" height="40"/>
+    </li>
   </li>
   
   <li>
-    - Tools:
-    <img src="https://www.svgrepo.com/show/452210/git.svg" alt="Git" width="40" height="40"/>
-    <img src="https://www.svgrepo.com/show/439100/chrome-devtools.svg" alt="Chrome DevTools" width="40" height="40"/>
-    <img src="https://www.svgrepo.com/show/354202/postman-icon.svg" alt="Postman" width="40" height="40"/>
-    <img src="https://www.svgrepo.com/show/448222/figma.svg" alt="Figma" width="40" height="40"/>
+    ### Tools:
+    <li>
+      <img src="https://www.svgrepo.com/show/452210/git.svg" alt="Git" width="40" height="40"/>
+      <img src="https://www.svgrepo.com/show/439100/chrome-devtools.svg" alt="Chrome DevTools" width="40" height="40"/>
+      <img src="https://www.svgrepo.com/show/354202/postman-icon.svg" alt="Postman" width="40" height="40"/>
+      <img src="https://www.svgrepo.com/show/448222/figma.svg" alt="Figma" width="40" height="40"/>
+    </li>
   </li>
   
   <li>
-    - Web Development:
-    <img src="https://www.svgrepo.com/show/353925/javascript.svg" alt="javascript" width="40" height="40"/>
-    <img src="https://www.svgrepo.com/show/303205/html-5-logo.svg" alt="HTML5" width="40" height="40"/>
-    <img src="https://www.svgrepo.com/show/452185/css-3.svg" alt="CSS" width="40" height="40"/>
-    <img src="https://www.svgrepo.com/show/374146/typescript-official.svg" alt="typescript" width="40" height="40"/>
-    <img src="https://www.svgrepo.com/show/452156/angular.svg" alt="Angular" width="40" height="40"/>
-    <img src="https://www.svgrepo.com/show/452092/react.svg" alt="React" width="40" height="40"/>
+    ### Web Development:
+    <li>
+      <img src="https://www.svgrepo.com/show/353925/javascript.svg" alt="javascript" width="40" height="40"/>
+      <img src="https://www.svgrepo.com/show/303205/html-5-logo.svg" alt="HTML5" width="40" height="40"/>
+      <img src="https://www.svgrepo.com/show/452185/css-3.svg" alt="CSS" width="40" height="40"/>
+      <img src="https://www.svgrepo.com/show/374146/typescript-official.svg" alt="typescript" width="40" height="40"/>
+      <img src="https://www.svgrepo.com/show/452156/angular.svg" alt="Angular" width="40" height="40"/>
+      <img src="https://www.svgrepo.com/show/452092/react.svg" alt="React" width="40" height="40"/>
+    </li>
   </li>
 </ul>
 </p>
