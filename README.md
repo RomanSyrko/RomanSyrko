@@ -14,7 +14,7 @@
 
 <h3 align="left">Codewars:</h3>
 
-[![Profile badge](https://www.codewars.com/users/Roman%20Syrko/badges/large)](https://www.codewars.com/users/Roman%20Syrko)
+[![Profile badge](https://www.codewars.com/users/Roman%20Syrko/badges/large?theme=light)](https://www.codewars.com/users/Roman%20Syrko)
 
 <h3 align="left">Languages and Tools:</h3>
 <p align="left">
