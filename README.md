@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="./img/HelloWorld.png" alt="HelloWorld.png">
+  <img src="./img/Hello_World.png" alt="HelloWorld.png">
 </p>
 
 <h1 align="center">Hi 👋, I'm Roman</h1>
