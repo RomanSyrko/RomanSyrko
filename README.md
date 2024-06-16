@@ -34,35 +34,35 @@
   
   <li>
     Python Ecosystem:
-    <li>
+    <p>
       <img src="https://www.svgrepo.com/show/452091/python.svg" alt="python" width="40" height="40"/>
       <img src="https://icon.icepanel.io/Technology/svg/Matplotlib.svg" alt="Matplotlib" width="40" height="40"/>
       <img src="https://www.vectorlogo.zone/logos/plotly/plotly-icon.svg" alt="Plotly" width="40" height="40"/>
       <img src="https://cdn.worldvectorlogo.com/logos/numpy-1.svg" alt="Numpy" width="40" height="40"/>
       <img src="https://icon.icepanel.io/Technology/svg/Pandas.svg" alt="Pandas" width="40" height="40"/>
-    </li>
+    </p>
   </li>
   
   <li>
     Tools:
-    <li>
+    <p>
       <img src="https://www.svgrepo.com/show/452210/git.svg" alt="Git" width="40" height="40"/>
       <img src="https://www.svgrepo.com/show/439100/chrome-devtools.svg" alt="Chrome DevTools" width="40" height="40"/>
       <img src="https://www.svgrepo.com/show/354202/postman-icon.svg" alt="Postman" width="40" height="40"/>
       <img src="https://www.svgrepo.com/show/448222/figma.svg" alt="Figma" width="40" height="40"/>
-    </li>
+    </p>
   </li>
   
   <li>
     Web Development:
-    <li>
+    <p>
       <img src="https://www.svgrepo.com/show/353925/javascript.svg" alt="javascript" width="40" height="40"/>
       <img src="https://www.svgrepo.com/show/303205/html-5-logo.svg" alt="HTML5" width="40" height="40"/>
       <img src="https://www.svgrepo.com/show/452185/css-3.svg" alt="CSS" width="40" height="40"/>
       <img src="https://www.svgrepo.com/show/374146/typescript-official.svg" alt="typescript" width="40" height="40"/>
       <img src="https://www.svgrepo.com/show/452156/angular.svg" alt="Angular" width="40" height="40"/>
       <img src="https://www.svgrepo.com/show/452092/react.svg" alt="React" width="40" height="40"/>
-    </li>
+    </p>
   </li>
 </ul>
 </p>
