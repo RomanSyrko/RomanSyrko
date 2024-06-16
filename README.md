@@ -2,11 +2,6 @@
   <img src="./img/Hello_World.png" alt="HelloWorld.png">
 </p>
 
-<h1>
-```python
-print('Hello World!')
-```
-</h1>
 
 <h1 align="center">Hi 👋, I'm Roman</h1>
 <h3 align="center">I am Junior QA Automation Python from Lviv, Ukraine 🇺🇦</h3>
