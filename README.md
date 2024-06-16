@@ -22,14 +22,14 @@
 <ul>
   <li>
     QA Automation:
-    <li>
+    <p>
       <img src="https://upload.wikimedia.org/wikipedia/commons/b/ba/Pytest_logo.svg" alt="Pytest" width="40" height="40"/>
       <img src="https://www.svgrepo.com/show/261808/api.svg" alt="API Testing" width="40" height="40"/>
       <img src="https://www.svgrepo.com/show/221325/http.svg" alt="HTTP library requests" width="40" height="40"/>
       <img src="https://www.svgrepo.com/show/185757/browser-ui.svg" alt="UI Testing" width="40" height="40"/>
       <img src="https://www.svgrepo.com/show/354321/selenium.svg" alt="Selenium WebDriver" width="40" height="40"/>
       <img src="https://www.svgrepo.com/show/373965/pgsql.svg" alt="Pgsql" width="40" height="40"/>
-    </li>
+    </p>
   </li>
   
   <li>
