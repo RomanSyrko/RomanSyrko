@@ -4,9 +4,9 @@
 
 
 <h1 align="center">Hi 👋, I'm Roman</h1>
-<h3 align="center">I am Junior QA Automation Python from Lviv, Ukraine 🇺🇦</h3>
+<!-- <h3 align="center">I am Junior QA Automation Python from Lviv, Ukraine 🇺🇦</h3>
   
-- 🤝 I’m looking for a **Trainee/Junior QA Automation Python** position
+- 🤝 I’m looking for a **Trainee/Junior QA Automation Python** position -->
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
